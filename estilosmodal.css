@@ -24,6 +24,7 @@
     left: 0px;
     background-color:rgb(255, 255, 255) ;
     -webkit-transition: all 1s;
+    z-index: 100%;
 }
 
 #ActviaVentana:checked ~ .VentModal{
