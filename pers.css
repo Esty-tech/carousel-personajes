@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(226, 198, 161);
+}
+  h1{
+    font-weight: bold;
+    margin-top: 75px;
+    text-align: right;
+  }
+  footer{
+    background-color: rgba(15, 15, 15, 0.774);
+    color: rgb(59, 59, 248);
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    height: 50px;
+    font-weight: bold;
+    font-size: 20px;
+  }
